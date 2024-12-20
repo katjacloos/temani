@@ -97,7 +97,7 @@ main{
 .star:nth-child(6) { left: 0%; top: 120%; animation-duration: 16s; }
 .star:nth-child(7) { left: 50%; top: 140%; animation-duration: 19s; }
 .star:nth-child(8) { left: 80%; top: 180%; animation-duration: 17s; }
-.star:nth-child(9) { left: 10%; top: 170%; animation-duration: 19s; }
+.star:nth-child(9) { left: 20%; top: 170%; animation-duration: 19s; }
 .star:nth-child(10) { left: 40%; top: 200%; animation-duration: 17s; }
 
 .star:nth-child(11) { left: 50%; top: 220%; animation-duration: 19s; }
